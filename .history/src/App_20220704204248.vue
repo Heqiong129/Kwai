@@ -30,7 +30,7 @@
 
 <style scoped>
 .el-icon {
-  font-size: 0.6rem;
+  font-size: 1.3rem;
 }
 
 .main {
@@ -60,7 +60,7 @@
   color: rgb(253, 253, 253);
   width: calc(6.498vh);
   position: relative;
-  top: 0.1rem;
+  top: 18%;
 }
 
 .navigationBar a {

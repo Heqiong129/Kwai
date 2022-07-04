@@ -30,7 +30,7 @@
 
 <style scoped>
 .el-icon {
-  font-size: 0.6rem;
+  font-size: 0.65rem;
 }
 
 .main {

@@ -59,42 +59,42 @@
 </script>
 
 <style scoped>
-.song .el-icon {
-    font-size: 0.4rem;
-}
-
 .el-avatar--circle {
-    --el-avatar-size: 1.3rem;
+    --el-avatar-size: 3rem;
 }
 
 .el-icon {
-    font-size: 0.9rem;
+    font-size: 2rem;
 }
 
 .authorSName {
-    font-size: 0.45rem;
-    height: calc(4vh);
+    font-size: 1rem;
+    height: 28px;
 }
 
 .describe {
-    font-size: 0.4rem;
-    height: calc(3.5vh);
+    font-size: 0.8rem;
+    height: 27px;
 }
 
 .time {
-    font-size: 0.32rem;
+    font-size: 0.7rem;
     color: rgb(179, 168, 166);
-    height: calc(2.5vh);
+    height: 3%;
 }
 
 .song {
-    font-size: 0.3rem;
+    font-size: 0.75rem;
+}
+
+.copywriting ul {
+    list-style-type: none;
 }
 
 .copywriting {
     position: absolute;
-    top: 82%;
-    left: 1%;
+    top: 85%;
+    left: calc(-4vh);
 }
 
 .record img {
@@ -103,14 +103,14 @@
 
 .rightButton {
     position: absolute;
-    left: 6.1rem;
-    top: 6.6rem;
-    font-size: 0.3rem;
+    left: calc(38vh);
+    top: calc(38vh);
+    font-size: 0.7rem;
     text-align: center;
 }
 
 .rightButton div {
-    height: 1.6rem;
+    height: 68px;
 }
 
 .Featured {
@@ -119,7 +119,7 @@
 
 .video {
     width: 100%;
-    height: calc(94.5vh);
+    height: calc(94.6vh);
     z-index: -9999;
     /*灰色调*/
     /* -webkit-filter: grayscale(100%) */

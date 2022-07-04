@@ -104,7 +104,7 @@
 .rightButton {
     position: absolute;
     left: 6.1rem;
-    top: 6.6rem;
+    top: 5.5rem;
     font-size: 0.3rem;
     text-align: center;
 }

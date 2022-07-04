@@ -5,6 +5,7 @@ import router from "./router";
 import store from "./store";
 import elementIcon from "./plugins/icons";
 import proportion from "vue-proportion-directive";
+
 import "lib-flexible";
 import "lib-flexible/flexible";
 

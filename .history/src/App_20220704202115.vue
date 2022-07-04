@@ -30,7 +30,7 @@
 
 <style scoped>
 .el-icon {
-  font-size: 0.6rem;
+  font-size: 2rem;
 }
 
 .main {
@@ -60,14 +60,14 @@
   color: rgb(253, 253, 253);
   width: calc(6.498vh);
   position: relative;
-  top: 0.1rem;
+  top: 20%;
 }
 
 .navigationBar a {
   color: rgb(178, 178, 178);
   text-decoration: none;
   margin: auto;
-  font-size: 0.4rem;
+  font-size: 0.8rem;
 }
 
 a.router-link-active {

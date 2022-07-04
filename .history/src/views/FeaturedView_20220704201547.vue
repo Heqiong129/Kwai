@@ -60,41 +60,45 @@
 
 <style scoped>
 .song .el-icon {
-    font-size: 0.4rem;
+    font-size: 0.8rem;
 }
 
 .el-avatar--circle {
-    --el-avatar-size: 1.3rem;
+    --el-avatar-size: 3rem;
 }
 
 .el-icon {
-    font-size: 0.9rem;
+    font-size: 2rem;
 }
 
 .authorSName {
-    font-size: 0.45rem;
+    font-size: 1rem;
     height: calc(4vh);
 }
 
 .describe {
-    font-size: 0.4rem;
+    font-size: 0.8rem;
     height: calc(3.5vh);
 }
 
 .time {
-    font-size: 0.32rem;
+    font-size: 0.6rem;
     color: rgb(179, 168, 166);
     height: calc(2.5vh);
 }
 
 .song {
-    font-size: 0.3rem;
+    font-size: 0.7rem;
+}
+
+.copywriting ul {
+    list-style-type: none;
 }
 
 .copywriting {
     position: absolute;
     top: 82%;
-    left: 1%;
+    left: calc(-5vh);
 }
 
 .record img {
@@ -103,14 +107,14 @@
 
 .rightButton {
     position: absolute;
-    left: 6.1rem;
-    top: 6.6rem;
-    font-size: 0.3rem;
+    left: calc(38vh);
+    top: calc(38vh);
+    font-size: 0.7rem;
     text-align: center;
 }
 
 .rightButton div {
-    height: 1.6rem;
+    height: calc(10vh);
 }
 
 .Featured {
@@ -119,7 +123,7 @@
 
 .video {
     width: 100%;
-    height: calc(94.5vh);
+    height: calc(94.6vh);
     z-index: -9999;
     /*灰色调*/
     /* -webkit-filter: grayscale(100%) */

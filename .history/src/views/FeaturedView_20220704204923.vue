@@ -82,13 +82,13 @@
 }
 
 .time {
-    font-size: 0.32rem;
+    font-size: 0.6rem;
     color: rgb(179, 168, 166);
     height: calc(2.5vh);
 }
 
 .song {
-    font-size: 0.3rem;
+    font-size: 0.7rem;
 }
 
 .copywriting {
@@ -104,13 +104,13 @@
 .rightButton {
     position: absolute;
     left: 6.1rem;
-    top: 6.6rem;
+    top: 5.5rem;
     font-size: 0.3rem;
     text-align: center;
 }
 
 .rightButton div {
-    height: 1.6rem;
+    height: calc(10vh);
 }
 
 .Featured {
